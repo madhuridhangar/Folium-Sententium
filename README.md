@@ -1,4 +1,4 @@
-[![HitCount](http://hits.dwyl.com/{username}/https://githubcom/Potential17.svg)](http://hits.dwyl.com/{username}/https://githubcom/Potential17)
+[![HitCount](http://hits.dwyl.com/{username}/https://githubcom/Potential17/Folium-Sententium.svg)](http://hits.dwyl.com/{username}/https://githubcom/Potential17/Folium-Sententium)
 
 # Folium-Sententium
 
